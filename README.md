@@ -1,6 +1,5 @@
 # Hi there 👋
 <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
-I am AI software engineer in shingu college
 
 안녕하세요, 저는 김휘일입니다. 
 AI 소프트웨어 엔지니어링과 데이터 분석 프로젝트를 중심으로 다양한 경험을 쌓아왔으며, 모바일BERT 기반 감정 분석, LoL 패턴 분석, TensorFlow 응용 프로젝트 등 여러 프로젝트를 통해 데이터 분석 역량을 발전시켰습니다.
